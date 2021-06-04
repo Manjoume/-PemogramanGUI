@@ -1,3 +1,12 @@
+Nama  : Faiz Rizky Fahlevi
+
+NIM   : 19104047
+
+Kelas   : S1-SE03-A
+
+UTS PEMOGRAMAN GUI
+
+
 No 1
 
 ![image](https://user-images.githubusercontent.com/72422012/120767004-fdb6dd80-c544-11eb-8afa-143c4c39a3c7.png)
